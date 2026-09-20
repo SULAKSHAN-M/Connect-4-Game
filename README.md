@@ -727,14 +727,6 @@ It helps support the project and encourages future development.
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SULAKSHAN-M/Connect-4-Game/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
 ---
 
 <div align="center">
