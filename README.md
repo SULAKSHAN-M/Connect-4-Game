@@ -702,7 +702,7 @@ If you like this project or find it useful, you can support my work by buying me
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/SULAKSHAN-MS">
+<a href="https://www.buymeacoffee.com/SULAKSHAN-M">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me a Coffee">
 </a>
 
